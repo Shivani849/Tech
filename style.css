@@ -98,3 +98,38 @@ img{
 .mr m{
     color: rgb(77, 54, 129);
 }
+@media screen and (max-width:521px){
+
+    .lg{
+        height:6cm;
+        font-size:12;
+    }
+    .gl{
+        width:100%;
+        height:3cm;
+
+    }
+    .gg{
+        width:100%;
+        height:3cm;
+    }
+    img{
+        padding-left: 3cm;
+        width:5cm;
+    }
+    .mo{
+        height:50cm;
+        width:100%;
+    }
+    .tl{
+        float:bottom;
+        width:100%;
+        height:20%;
+    }
+    .tr{
+        float:bottom; 
+       width:100%;
+        height:20%;
+    }
+
+}
